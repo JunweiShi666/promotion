@@ -1,0 +1,31 @@
+body {
+  background-color: #F6672A;
+
+  margin-bottom: 100px;
+  margin-right: 400px;
+  margin-left: 400px;
+}
+h1 {
+  text-shadow: 1px 1px #B63E0A;
+  color: white;
+  font-family: 'Krona One', sans-serif;
+  text-align: center;
+  }
+
+h2{
+  margin-top: 100px;
+  color: white;
+  font-family: 'Krona One', sans-serif;
+  align: center;
+  }
+
+
+
+p {
+  margin-top: 11px;
+  color: white;
+  font-family: 'Krona One', sans-serif;
+  font-size: large;
+
+  }
+}
